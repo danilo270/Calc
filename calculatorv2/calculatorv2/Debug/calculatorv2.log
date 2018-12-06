@@ -1,0 +1,12 @@
+﻿  calculatorv2.cpp
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(195): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(142): warning C4102: 'pocetak': unreferenced label
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(78): warning C4715: 'get_value': not all control paths return a value
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(100): warning C4715: 'is_declared': not all control paths return a value
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(237): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\legaz\source\repos\calculatorv2\calculatorv2\calculatorv2.cpp(367): warning C4715: 'primary': not all control paths return a value
+  calculatorv2.vcxproj -> C:\Users\legaz\source\repos\calculatorv2\Debug\calculatorv2.exe
